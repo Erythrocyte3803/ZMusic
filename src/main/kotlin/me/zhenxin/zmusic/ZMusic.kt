@@ -1,11 +1,11 @@
 package me.zhenxin.zmusic
 
-import org.slf4j.LoggerFactory
 import me.zhenxin.zmusic.event.EventHandler
 import net.fabricmc.api.ModInitializer
 import net.fabricmc.fabric.api.client.networking.v1.ClientPlayNetworking
 import net.minecraft.network.PacketByteBuf
 import net.minecraft.util.Identifier
+import org.slf4j.LoggerFactory
 import java.nio.charset.StandardCharsets
 
 
